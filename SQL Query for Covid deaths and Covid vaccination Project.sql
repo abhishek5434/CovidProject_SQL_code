@@ -1,3 +1,5 @@
+--MY COVID PROJECT
+
 SELECT * FROM
 PortfolioProject..CovidDeaths
 where continent is not null
